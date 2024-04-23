@@ -64,7 +64,7 @@ _Este é um exemplo de texto em itálico_
 
 ## 5.0 Imagens
 
-<<<<<<< HEAD
+
 ![LOGO UOL](https://i.pinimg.com/originals/60/1c/95/601c95ac47e6ba7fc9793d8baab6c769.png)
 
 
